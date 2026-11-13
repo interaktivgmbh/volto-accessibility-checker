@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"POT-Creation-Date: 2026-11-05T12:22:14.453Z\n"
+"Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: volto\n"
+
+#. Default: "Close"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "Close"
+msgstr ""
+
+#. Default: "Check this page's content for potential accessibility issues."
+#: components/AccessibilityModal/AccessibilityModal
+msgid "accessibility-checker-description"
+msgstr ""
+
+#. Default: "Accessibility checker"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "accessibility-checker-title"
+msgstr ""
+
+#. Default: "AI-based"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "ai-based"
+msgstr ""
+
+#. Default: "Semantic and context-aware check using AI. The results are AI-generated hints and can be wrong. You remain responsible for the content."
+#: components/BaseTabPane/BaseTabPane
+msgid "ai-based-description"
+msgstr ""
+
+#. Default: "Block-ID:"
+#: components/BlockLink/BlockLink
+msgid "block-id"
+msgstr ""
+
+#. Default: "{type} block"
+#: components/BlockLink/BlockLink
+msgid "block-type"
+msgstr ""
+
+#. Default: "Check failed"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-failed"
+msgstr ""
+
+#. Default: "The check could not be completed. Please try again later."
+#: components/BaseTabPane/BaseTabPane
+msgid "check-failed-content"
+msgstr ""
+
+#. Default: "Check finished"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-finished"
+msgstr ""
+
+#. Default: "Check in progress…"
+#: components/ResultsContainer/ResultsContainer
+msgid "check-running"
+msgstr ""
+
+#. Default: "Check started"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-started"
+msgstr ""
+
+#. Default: "Go to block"
+#: components/BlockLink/BlockLink
+msgid "go-to-block"
+msgstr ""
+
+#. Default: "Results"
+#: components/BaseTabPane/BaseTabPane
+msgid "heading-results"
+msgstr ""
+
+#. Default: "Hint:"
+#: components/ResultsRow/ResultsRow
+msgid "hint"
+msgstr ""
+
+#. Default: "Last checked: {datetime}"
+#: components/BaseTabPane/BaseTabPane
+msgid "last-checked"
+msgstr ""
+
+#. Default: "Never"
+#: components/BaseTabPane/BaseTabPane
+msgid "never"
+msgstr ""
+
+#. Default: "No check has been started yet."
+#: components/ResultsContainer/ResultsContainer
+msgid "no-check-started"
+msgstr ""
+
+#. Default: "No permission"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "no-permission"
+msgstr ""
+
+#. Default: "Not assigned to a block"
+#: components/ResultsRow/ResultsRow
+msgid "not-assigned-to-block"
+msgstr ""
+
+#. Default: "Rule-based"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "rule-based"
+msgstr ""
+
+#. Default: "Automated check of selected WCAG criteria."
+#: components/BaseTabPane/BaseTabPane
+msgid "rule-based-description"
+msgstr ""
+
+#. Default: "Severity:"
+#: components/ResultsRow/ResultsRow
+msgid "severity"
+msgstr ""
+
+#. Default: "Critical"
+#: components/ResultsRow/ResultsRow
+msgid "severity-critical"
+msgstr ""
+
+#. Default: "Minor"
+#: components/ResultsRow/ResultsRow
+msgid "severity-minor"
+msgstr ""
+
+#. Default: "Moderate"
+#: components/ResultsRow/ResultsRow
+msgid "severity-moderate"
+msgstr ""
+
+#. Default: "Serious"
+#: components/ResultsRow/ResultsRow
+msgid "severity-serious"
+msgstr ""
+
+#. Default: "Start check"
+#: components/BaseTabPane/BaseTabPane
+msgid "start-check"
+msgstr ""
+
+#. Default: "Failed"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-fail"
+msgstr ""
+
+#. Default: "Needs review"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-incomplete"
+msgstr ""
+
+#. Default: "Passed"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-pass"
+msgstr ""
+
+#. Default: "Accessibility checker"
+#: components/AccessibilityButton/AccessibilityButton
+msgid "toolbar-accessibility-checker"
+msgstr ""
+
+#. Default: "Unavailable while editing"
+#: components/BaseTabPane/BaseTabPane
+msgid "unavailable-while-editing"
+msgstr ""

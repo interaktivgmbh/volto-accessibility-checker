@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. Default: "Close"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "Close"
+msgstr "Schließen"
+
+#. Default: "Check this page's content for potential accessibility issues."
+#: components/AccessibilityModal/AccessibilityModal
+msgid "accessibility-checker-description"
+msgstr "Prüfen Sie den Inhalt dieser Seite auf mögliche Barrierefreiheitsprobleme."
+
+#. Default: "Accessibility checker"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "accessibility-checker-title"
+msgstr "Barrierefreiheitsprüfung"
+
+#. Default: "AI-based"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "ai-based"
+msgstr "KI-basiert"
+
+#. Default: "Semantic and context-aware check using AI. The results are AI-generated hints and can be wrong. You remain responsible for the content."
+#: components/BaseTabPane/BaseTabPane
+msgid "ai-based-description"
+msgstr "Semantische und kontextabhängige Prüfung mithilfe von KI. Die Ergebnisse sind KI-generierte Hinweise und können fehlerhaft sein. Die Verantwortung für die Inhalte liegt weiterhin bei Ihnen."
+
+#. Default: "Block-ID:"
+#: components/BlockLink/BlockLink
+msgid "block-id"
+msgstr "Block-ID:"
+
+#. Default: "{type} block"
+#: components/BlockLink/BlockLink
+msgid "block-type"
+msgstr "{type}-Block"
+
+#. Default: "Check failed"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-failed"
+msgstr "Prüfung fehlgeschlagen"
+
+#. Default: "The check could not be completed. Please try again later."
+#: components/BaseTabPane/BaseTabPane
+msgid "check-failed-content"
+msgstr "Die Prüfung konnte nicht abgeschlossen werden. Bitte versuchen Sie es später erneut."
+
+#. Default: "Check finished"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-finished"
+msgstr "Prüfung abgeschlossen"
+
+#. Default: "Check in progress…"
+#: components/ResultsContainer/ResultsContainer
+msgid "check-running"
+msgstr "Prüfung läuft…"
+
+#. Default: "Check started"
+#: components/BaseTabPane/BaseTabPane
+msgid "check-started"
+msgstr "Prüfung gestartet"
+
+#. Default: "Go to block"
+#: components/BlockLink/BlockLink
+msgid "go-to-block"
+msgstr "Zum Block springen"
+
+#. Default: "Results"
+#: components/BaseTabPane/BaseTabPane
+msgid "heading-results"
+msgstr "Prüfergebnisse"
+
+#. Default: "Hint:"
+#: components/ResultsRow/ResultsRow
+msgid "hint"
+msgstr "Hinweis:"
+
+#. Default: "Last checked: {datetime}"
+#: components/BaseTabPane/BaseTabPane
+msgid "last-checked"
+msgstr "Zuletzt geprüft: {datetime}"
+
+#. Default: "Never"
+#: components/BaseTabPane/BaseTabPane
+msgid "never"
+msgstr "Nie"
+
+#. Default: "No check has been started yet."
+#: components/ResultsContainer/ResultsContainer
+msgid "no-check-started"
+msgstr "Es wurde noch keine Prüfung gestartet."
+
+#. Default: "No permission"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "no-permission"
+msgstr "Keine Berechtigung"
+
+#. Default: "Not assigned to a block"
+#: components/ResultsRow/ResultsRow
+msgid "not-assigned-to-block"
+msgstr "Keinem Block zugeordnet"
+
+#. Default: "Rule-based"
+#: components/AccessibilityModal/AccessibilityModal
+msgid "rule-based"
+msgstr "Regelbasiert"
+
+#. Default: "Automated check of selected WCAG criteria."
+#: components/BaseTabPane/BaseTabPane
+msgid "rule-based-description"
+msgstr "Automatische Prüfung ausgewählter WCAG-Kriterien."
+
+#. Default: "Severity:"
+#: components/ResultsRow/ResultsRow
+msgid "severity"
+msgstr "Schweregrad:"
+
+#. Default: "Critical"
+#: components/ResultsRow/ResultsRow
+msgid "severity-critical"
+msgstr "Kritisch"
+
+#. Default: "Minor"
+#: components/ResultsRow/ResultsRow
+msgid "severity-minor"
+msgstr "Gering"
+
+#. Default: "Moderate"
+#: components/ResultsRow/ResultsRow
+msgid "severity-moderate"
+msgstr "Mittel"
+
+#. Default: "Serious"
+#: components/ResultsRow/ResultsRow
+msgid "severity-serious"
+msgstr "Schwerwiegend"
+
+#. Default: "Start check"
+#: components/BaseTabPane/BaseTabPane
+msgid "start-check"
+msgstr "Prüfung starten"
+
+#. Default: "Failed"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-fail"
+msgstr "Nicht bestanden"
+
+#. Default: "Needs review"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-incomplete"
+msgstr "Prüfung erforderlich"
+
+#. Default: "Passed"
+#: components/StatusIndicator/StatusIndicator
+msgid "status-pass"
+msgstr "Bestanden"
+
+#. Default: "Accessibility checker"
+#: components/AccessibilityButton/AccessibilityButton
+msgid "toolbar-accessibility-checker"
+msgstr "Barrierefreiheitsprüfung"
+
+#. Default: "Unavailable while editing"
+#: components/BaseTabPane/BaseTabPane
+msgid "unavailable-while-editing"
+msgstr "Beim Bearbeiten nicht verfügbar"

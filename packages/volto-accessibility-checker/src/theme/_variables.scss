@@ -1,0 +1,20 @@
+$a11y-checker-results-background: #f1f1f1 !default;
+$a11y-checker-results-border: #d3d3d3 !default;
+
+$a11y-checker-severity-minor-background: #e8eef7 !default;
+$a11y-checker-severity-minor-text: #1f3a5f !default;
+
+$a11y-checker-severity-moderate-background: #fdf1d6 !default;
+$a11y-checker-severity-moderate-text: #5c4300 !default;
+
+$a11y-checker-severity-serious-background: #fde3cf !default;
+$a11y-checker-severity-serious-text: #7a2e00 !default;
+
+$a11y-checker-severity-critical-background: #fbdada !default;
+$a11y-checker-severity-critical-text: #7f1010 !default;
+
+$a11y-checker-status-pass: #1a7f37 !default;
+$a11y-checker-status-incomplete: #b38600 !default;
+$a11y-checker-status-fail: #c62828 !default;
+
+$a11y-checker-target-outline: $a11y-checker-status-fail !default;
